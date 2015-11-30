@@ -1,0 +1,41 @@
+body 	{background-color: rgb(138,64,164)}
+h1 		{border: inset 3px;	text-align:center;	background: navy; 	
+		color:white; padding: 10px;	width: 1000px; margin-left: 350px;}
+h2 		{font-size: 16px; text-decoration: underline; color: #DF01A5; margin-left: 10px}
+p 		{margin-left: 20px;	font-family: "Times New Roman";
+	font-weight: bold;	color:#610B4B;}
+#gch 	{float: left;}
+#drt 	{float: right;}
+img.displayed 	{display: block; margin-left: auto; margin-right: auto;
+   			 	margin-top: 200px; width: 200px ;}
+div 	{background-color: #DBC1F5;	margin-top: 30px;
+		margin-left: 10px;	width: 450px;	text-align: left;}
+
+.bspg 	{margin-top: 150px;	background-color:#FF00FF;width: 500px; padding: 3px;}
+
+
+/* Style attendu pour Happy 
+
+couleur de fond rgb(138,64,164)
+
+titre : fond navy
+        bordure 3D blanche 3pt
+        marges intérieures 10pt
+        texte centré blanc 
+        largeur du titre 
+
+sous-titre : taille 16pt souligné couleur #DF01A5
+             mettre une petite marge gauche
+ 
+texte des paroles : gras Times New Roman 12pt couleur #610B4B
+
+image largeur : 160pt 
+
+colonne Gauche : fond #DBC1F5, décaler un peu du haut, 
+                 ajouter un peu d'espace à droite pour décoller le texte du bord
+
+
+colonne Droite : fond #DBC1FB, décaler un peu du haut, 
+                 ajouter un peu d'espace à droite pour décoller le texte du bord
+
+photo à replacer*/

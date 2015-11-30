@@ -1,0 +1,61 @@
+body 	{background-color: #FEE9D8}
+h1 		{border-style: double;
+		border-color:  #DEB887; 
+		border-width: 2pt; 
+		text-align: center; 
+		color: #DEB887; 
+		width: 60%; 
+		margin-left: 10%;}
+h1::first-letter {font-size: 250%; 
+				color: #A52A2A;
+				font-style: italic;}
+p::first-letter {font-weight: bold; 
+/*ou span*/		font-size: 250%; 
+				color: #A52A2A;
+				font-style: italic;}
+fieldset {width:40%;
+		border-color: #A52A2A; 
+		border-width: 2pt;
+		border-style : solid;
+		margin-top: 5pt; 
+		margin-bottom: 20pt}
+img 	{width: 20%;}
+
+img.drt {}	
+caption {font-weight: bold;}	
+table 	{background-color: #DEB887; 
+		border-style: ridge; 
+		border-color: #A52A2A; }
+hr 		{
+		border-style: ridge;
+		border-color: #A52A2A;
+		padding: 1pt;
+		clear: both;
+		margin-top:  20pt;
+		}
+.drt 	{float: right;}
+.bas 	{float: bottom;}
+/*.gch 	{float: left;}
+div 	{display: block;}
+
+
+/* Style attendu pour Cinema
+fond de page : #FEE9D8
+titre : bordure double #DEB887 2pt
+        texte centrÃ© de couleur #DEB887
+     	largeur 60%
+        marge extÃ©rieure gauche 10%
+        1Ã¨re lettre deux fois et demi plus grande, italique de couleur #A52A2A
+paragraphe 1Ã¨re lettre en gras deux fois et demi plus grande, italique de couleur #A52A2A
+encadrÃ© : largeur 80%
+          bordure de couleur #A52A2A 2pt
+          marge extÃ©rieure haute 5pt, basse 20pt
+image : largeur 80%
+lÃ©gendes diverses en gras
+tableau : fond #DEB887, bordure effet 3D clair/foncÃ© de couleur #A52A2A
+
+ligne horizontale : bordure effet 3D clair/foncÃ© de couleur #A52A2A
+                    marge intÃ©rieure 1pt
+                    longueur sur toute la page
+
+encadrÃ©+tableau calÃ© Ã  gauche, image Ã  droite, ligne horizontale en dessous*/

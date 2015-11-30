@@ -1,0 +1,29 @@
+body 	{background-color: #E6BBFF}
+h1 		{text-align: center}
+h1::first-letter {font-size: 200%; color: #BB00FB;font-style: italic;}
+p {color: blue; font-weight: bold;}
+ol {list-style-type: upper-roman}
+table 	{border-style: dotted; border-color: black;}
+th 	{background-color: #007FEE }
+td 		{background-color: rgb(120,177,248)}
+.drt 	{float: right;}
+.gch 	{float: left;}
+
+/* Style attendu pour Vélo 
+
+couleur de fond : rgb(230,187,255)
+
+titre : centré 
+        1ère lettre en italique, deux fois plus grande, de couleur #BB00FB
+
+paragraphe : gras, texte blue
+
+
+liste : puce en chiffres romains majuscules
+
+
+tableau : bordure noire en pointillés
+          entête tableau : fond rgb(0,127,238)
+          corps du tableau : fond rgb(120,177,248)
+
+page séparée en deux blocs côte à côte*/

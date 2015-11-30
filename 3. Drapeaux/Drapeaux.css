@@ -1,0 +1,21 @@
+
+body 	{background-image: url('Collines.jpg') }
+h1 		{border-style: solid; border-color: navy; border-width: 3pt; 
+		text-align: center; color:navy; margin-left: 10%; width: 60%;}
+h2 		{text-decoration: underline;}
+ul 		{list-style-position:  20pt}
+#mgeb	{margin-bottom:  5em}
+a 		{font-family: courier; font-weight: bold; color: fuchsia;}
+
+/*Style attendu pour Drapeaux
+
+Pour tout le document : fond image "collines.jpg" (une seule fois)
+
+Pour le titre : bordure bleu foncé (navy) 3pt, texte centré bleu foncé, 
+largeur de l'élément 60%, marge à gauche 10%
+
+Pour le sous-titre : souligné
+
+Pour les items des listes : marge basse 20pt
+
+Pour les liens : texte gras Courier New fuchsia*/
